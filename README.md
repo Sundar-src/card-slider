@@ -9,3 +9,4 @@ Swipe through beautiful profile cards with a click — left ⬅️ and right ➡
 
   
 ## 📷 Preview:
+![Card Slider Preview](./Assets/screenshot.png)
